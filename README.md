@@ -32,7 +32,7 @@ The solution works with two datasets:
 ## Installation & Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/swetak03/student-rank-predictor.git
+   git clone https://github.com/yourusername/student-rank-predictor.git
    cd student-rank-predictor
    ```
 2. **Install Dependencies**
