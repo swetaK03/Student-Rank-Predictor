@@ -83,7 +83,7 @@ The solution works with two datasets:
 - Improve UI/UX of the React frontend.
 
 ## Contributors
--  ([sWETAK03]((https://github.com/swetaK03)))
+-  ([SWETAK03]((https://github.com/swetaK03)))
 
 
 
