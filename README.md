@@ -83,8 +83,7 @@ The solution works with two datasets:
 - Improve UI/UX of the React frontend.
 
 ## Contributors
-- Your Name ([GitHub Profile]((https://github.com/swetaK03)))
+-  ([sWETAK03]((https://github.com/swetaK03)))
 
-## License
-This project is licensed under the MIT License.
+
 
